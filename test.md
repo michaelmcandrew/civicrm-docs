@@ -7,7 +7,9 @@ This is markdown
     * this is another intended bullet
 * now we are back to the bullet list
 
-That was the end of the bullets
+That was the end of the bullets.
+
+I've just added some more text.
 
 <table>
 <tr><th>Some</th><th>Headers</th><th>Here</th></tr>
